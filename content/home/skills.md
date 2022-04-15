@@ -26,7 +26,7 @@ feature:
   name: Statistics
 - description: 70%
   icon: python
-  icon_pack: fas
+  icon_pack: fab
   name: Python
 - description: 10%
   icon: camera-retro
