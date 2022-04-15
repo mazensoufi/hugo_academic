@@ -2,7 +2,7 @@
 # An instance of the slider widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: slider  # Use the Slider widget as this page section
-weight: 1  # Position of this section on the page
+weight: 2  # Position of this section on the page
 active: true  # Publish this section?
 headless: true  # This file represents a page section.
 
