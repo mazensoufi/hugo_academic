@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mazen Soufi personal website (under construction)
+title: Mazen Soufi
 
 # Is this the primary user of the site?
 superuser: true
