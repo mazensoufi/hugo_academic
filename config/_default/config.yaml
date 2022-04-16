@@ -11,9 +11,51 @@ baseURL: 'https://mazensoufi.github.io/' # Website URL
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
+
+languages:
+  ar:
+    langaugeName: Arabic
+    languagedirection: rtl
+    title: مدونتي
+    menu:
+      main:
+      - name: البداية
+        url: /
+        weight: 10
+    weight: 2
+  en:
+    langaugeName: English
+    menu:
+      main:
+      - name: StartPage
+        url: /
+        weight: 0
+    params:
+      linkedin: https://linkedin.com/whoever
+    title: My blog
+    weight: 1
+  fr:
+    langaugeName: French
+    menu:
+      main:
+      - name: Commence
+        url: /
+        weight: 20
+    params:
+      linkedin: https://linkedin.com/fr/whoever
+      navigation:
+        help: Aide
+    title: Mon blogue
+    weight: 2
+  pt-pt:
+    title: O meu blog
+    weight: 3
+params:
+  navigation:
+    help: Help
 
 ############################
 ## MODULES
