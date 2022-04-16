@@ -38,10 +38,10 @@ languages:
     title: My blog
     weight: 1
   fr:
-    langaugeName: French
+    langaugeName: 日本語
     menu:
       main:
-      - name: Commence
+      - name: ホームページ開始
         url: /
         weight: 20
     params:
