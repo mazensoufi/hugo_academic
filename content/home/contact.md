@@ -51,7 +51,7 @@ content:
   #     icon_pack: fas
   #     name: Zoom Me
   #     link: 'https://zoom.com'
-<iframe src="https://www.google.com/maps/place/Nara+Institute+of+Science+and+Technology/@34.7326195,135.7165039,14z/data=!4m5!3m4!1s0x600122e9fc7b1ce7:0x2109b99d4ee8a89c!8m2!3d34.7326198!4d135.7340145" width="600" height="450" frameborder="0" style="border:0"></iframe>
+  <iframe src="https://www.google.com/maps/place/Nara+Institute+of+Science+and+Technology/@34.7326195,135.7165039,14z/data=!4m5!3m4!1s0x600122e9fc7b1ce7:0x2109b99d4ee8a89c!8m2!3d34.7326198!4d135.7340145" width="600" height="450" frameborder="0" style="border:0"></iframe>
 design:
   columns: '2'
 ---
