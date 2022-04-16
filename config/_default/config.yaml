@@ -37,7 +37,7 @@ languages:
       linkedin: https://linkedin.com/whoever
     title: My blog
     weight: 1
-  fr:
+  jp:
     langaugeName: 日本語
     menu:
       main:
