@@ -70,7 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-Mazen Soufi is an assistant professor of information science at Imaging-based Computational Biomedicine lab, with Prof. Yoshinobu Sato and Assoc. Prof. Yoshito Otake.
+Mazen Soufi is an assistant professor of information science at Imaging-based Computational Biomedicine lab.
 
+<!-- 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
