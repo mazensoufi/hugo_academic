@@ -71,7 +71,7 @@ highlight_name: true
 ---
 
 Mazen Soufi is an assistant professor of information science at Imaging-based Computational Biomedicine lab in Nara Institute of Science and Technology (NAIST). My research focuses on the analysis of disease progression trends based on morphological and intensity features dervied from medical images. In my work, I leverage state-of-the-art algorithms for automated image segmentation to obtain the target organs/structures and perform downstream analysis. <br>
-I worked before in projects involving the survival prediction of lung cancer patients using CT image features, and liver fibrosis in MR images based on shape analysis. I'm currently interested in the analysis of musculoskeletal structures to have insights into the age- and disease-related variations. I finally aim at coming up with novel image-based biomarkers to be used in precision medicine to enhance the diagnosis and decision-making processes.
+I worked before in projects involving the survival prediction of lung cancer patients using CT image features, and liver fibrosis in MR images based on shape analysis. I'm currently interested in the analysis of musculoskeletal structures to have insights into the age- and disease-related variations. I finally aim at coming up with novel image biomarkers to be used in the coming era of precision medicine, in order to further enhance the diagnosis and decision-making processes.
 
 <!-- 
 
