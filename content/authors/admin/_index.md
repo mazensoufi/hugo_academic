@@ -19,8 +19,9 @@ bio: I'm an assistant professor in the Division of Information Science at NAIST,
 # Interests to show in About widget
 interests:
 - Medical Imaging
-- Image Processing
-- Deep Learning
+- Image Processing and Computer Vision
+- Artificial Intelligence and Deep Learning
+- Big Data
 
 # Education to show in About widget
 education:
@@ -71,7 +72,7 @@ highlight_name: true
 ---
 
 Mazen Soufi is an assistant professor of information science at <a href="http://icb-lab.naist.jp/english/index.html">Imaging-based Computational Biomedicine lab</a> in Nara Institute of Science and Technology (NAIST). My research focuses on the analysis of disease progression trends based on morphological and intensity features dervied from medical images. In my work, I leverage state-of-the-art algorithms for automated image segmentation to obtain the target organs/structures and perform downstream analysis. <br>
-I worked before in projects involving the survival prediction of lung cancer patients using CT image features, and liver fibrosis in MR images based on shape analysis. I'm currently interested in the analysis of musculoskeletal structures to have insights into the age- and disease-related variations. I finally aim at coming up with novel image biomarkers to be used in the coming era of precision medicine, in order to further enhance the diagnosis and decision-making processes.
+I worked before in projects involving the survival prediction of lung cancer patients using CT image features, and liver fibrosis in MR images based on shape analysis. I'm currently interested in the analysis of musculoskeletal (MSK) structures to have insights into the age- and disease-related variations. To pursue this goal, I collaborate with multiple healthcare/medical institutions in Japan and abroad to analyze large-scale (x10,000 images) databases. I finally aim at coming up with novel image biomarkers to be used in improving our understanding of aging and disease of the MSK system, and exploring potentials to help medical doctors enhance the patients' quality of life through Big Data-based findings.
 
 <!-- 
 
