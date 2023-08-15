@@ -23,17 +23,20 @@ active: true
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Assistant Professor
-    company: Nara Institute of Science and Technology, Imaging-based Computational Biomedicine Lab
+    company: Nara Institute of Science and Technology, Imaging-based Computational Biomedicine Lab (ICB lab)
     company_url: 'http://icb-lab.naist.jp/english/index.html'
     company_logo: naist
     location: Nara, Japan
     date_start: '2018-02-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        * Mentorship
-        * Research and development
-        * Teaching
+        Faculty member responsibilities including:
+        * Master/PhD course student research mentorship
+        * Research and development: multiple projects involving MRI, CT and histopathology image analysis
+        * Teaching (limited)
+        * Lab environment duties (GPU cluster "slurm+singularity/docker" and data servers "Windows Server, NAS" management)
+        * Operation (image acquisition) of standing MR images for volunteers (E-MRI Brio G-Scan, Esaote)
+        * On-campus activities (International Data Science Day 2019,2022, publicity group, entrance examination group duties)
         
   - title: Visiting Scientist
     company: University Hospital Bonn, Computational Imaging Reserach (Albarqouni Lab)
@@ -43,6 +46,16 @@ experience:
     date_start: '2022-12-05'
     date_end: '2023-03-31'
     description: Research visit on the application of federated learning for musculoskeletal segemtnation in CT images.
+
+  - title: Post-doctoral Researcher (PD-JSPS)
+    company: Kyushu University, Artificial intelligence-based Diagnostic and Treatment Systems (Arimura Lab)
+    company_url: 'http://web.shs.kyushu-u.ac.jp/~arimura/'
+    company_logo: kyushu
+    location: Fukuoka, Japan
+    date_start: '2017-10-01'
+    date_end: '2018-01-31'
+    description: Research on applications of radiomics in cancer patient progonostic prediction. I particularly investigated the temporal stability of radiomic features in lung cancer patient imaging based on EPID images, and the identifying the optimal radiomic wavelet features for prognostic prediction of lung cancer patients from CT images.
+
 
 design:
   columns: '2'
