@@ -30,13 +30,12 @@ experience:
     date_start: '2018-02-01'
     date_end: ''
     description: |2-
-        Faculty member responsibilities including:
+        Responsibilities include:
         * Master/PhD course student research mentorship
         * Research and development: multiple projects involving MRI, CT and histopathology image analysis
         * Teaching (limited)
-        * Lab environment duties (GPU cluster "slurm+singularity/docker" and data servers "Windows Server, NAS" management)
-        * Operation (image acquisition) of standing MR images for volunteers (E-MRI Brio G-Scan, Esaote)
-        * On-campus activities (International Data Science Day 2019,2022, publicity group, entrance examination group duties)
+        * Lab environment duties (GPU cluster "slurm+singularity/docker" and data servers "Windows Server, NAS" management, Fujifilm Vincent Workstaion)
+        * Operation of standing MRI scanner (E-MRI Brio G-Scan, Esaote) for image acquisition
         
   - title: Visiting Scientist
     company: University Hospital Bonn, Computational Imaging Reserach (Albarqouni Lab)
