@@ -6,7 +6,7 @@ title: Mazen Soufi
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor of Information Science
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
