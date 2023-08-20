@@ -14,22 +14,22 @@ organizations:
   url: http://www.naist.jp/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an assistant professor in the Division of Information Science at NAIST, and I apply data-driven approaches to model disease progression from medical images.
+bio: I'm an assistant professor in the Division of Information Science at NAIST, and I apply data-driven approaches to model disease progression from large-scale databases of medical images.
 
 # Interests to show in About widget
 interests:
 - Medical Imaging
-- Image Processing and Computer Vision
-- Artificial Intelligence and Deep Learning
-- Big Data
+- Artificial Intelligence & Deep Learning
+- Disease Progression & Large-Scale Data Analysis
+- Federated Learning
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Health Sciences
+  - course: PhD Degree
     institution: Kyushu University
     year: 2017
-  - course: Master in Health Sciences
+  - course: Master's Degree
     institution: Kyushu University
     year: 2014
   - course: BSc in Biomedical Engineering
