@@ -33,8 +33,8 @@ experience:
         Responsibilities include:
         * Master/PhD course student research mentorship
         * Research and development: multiple projects involving MRI, CT and histopathology image analysis
-        * Teaching (limited)
-        * Lab environment duties (GPU cluster "slurm+singularity/docker" and data servers "Windows Server, NAS" management, Fujifilm Vincent Workstaion)
+        * Teaching
+        * Lab environment administration (GPU cluster "slurm+singularity" and data servers "Windows Server, NAS", Fujifilm Vincent workstaion)
         * Operation of standing MRI scanner (E-MRI Brio G-Scan, Esaote) for image acquisition
         
   - title: Visiting Scientist
