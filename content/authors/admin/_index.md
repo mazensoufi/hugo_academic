@@ -26,13 +26,13 @@ interests:
 education:
   courses:
   - course: PhD (Health Sciences)
-    institution: Kyushu University
+    institution: Kyushu University, Japan
     year: 2017
   - course: Master's Degree (Health Sciences)
-    institution: Kyushu University
+    institution: Kyushu University, Japan
     year: 2014
-  - course: BSc in Biomedical Engineering
-    institution: Damascus University
+  - course: BSc (Biomedical Engineering)
+    institution: Damascus University, Syria
     year: 2011
 
 # Social/Academic Networking
