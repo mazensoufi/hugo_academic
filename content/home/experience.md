@@ -38,7 +38,7 @@ experience:
         * Operation of standing MRI scanner (E-MRI Brio G-Scan, Esaote) for image acquisition
         
   - title: Visiting Scientist
-    company: University Hospital Bonn, Computational Imaging Reserach (Albarqouni Lab)
+    company: University Hospital Bonn, Computational Imaging Research (Albarqouni Lab)
     company_url: 'https://albarqouni.github.io/'
     company_logo: ukb
     location: Bonn, Germany
