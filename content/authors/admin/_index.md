@@ -25,10 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD Degree
+  - course: PhD (Health Sciences)
     institution: Kyushu University
     year: 2017
-  - course: Master's Degree
+  - course: Master's Degree (Health Sciences)
     institution: Kyushu University
     year: 2014
   - course: BSc in Biomedical Engineering
